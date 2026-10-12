@@ -8,6 +8,10 @@
 
 </div>
 
+## 📸 Dashboard
+
+<p align="center"><img src="images/dashboard.png" alt="Dashboard preview" width="100%"/></p>
+
 ---
 
 ## ❓ Business questions
@@ -25,6 +29,18 @@ Superstore sales data (**discountmart**) — category, sub-category, region, sta
 
 - **Page 1:** total sales, quantity and average order value cards; Sales 2019 vs 2018 with **YoY %**; category / sub-category matrix with **% in category**
 - **Page 2:** **Sales % of Total**, big-sales count and amount, sales after 10% discount, average sales per customer, **Top 3 sub-categories**, **Region and State rank**
+
+## 🔢 Headline KPIs
+
+| Total sales | Total quantity | Avg. order value | Furniture sales |
+|:-:|:-:|:-:|:-:|
+| **2.3M** | **38K** | **458.5** | **741K** |
+
+## 💡 Key insights
+
+- Sales grew from **2018 to 2019**, with the YoY % measure tracking the change.
+- Sales are balanced across categories: **Technology 836K**, **Furniture 741K**, **Office Supplies 719K**.
+- Every measure is stored in a dedicated, numbered **Measures Table**, making the model easy to audit and reuse.
 
 ## 🧠 Skills demonstrated
 
